@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+table {
+	width: 260px;
+	border-width: 0px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+#interface td:first-child {
+	width: 120px;
+}
+
+
+#interface td:nth-child(2), td:nth-child(3) {
+	width: 70px;
+}
+
+#interface td {
+	text-align: center;
+	height: 20px;
+}
+
+#interface tr:last-child {
+	height: 40px;
+}
+
+
+#credits, #grade {
+	width: 40px;
+}
+
+#name {
+	width: 90px;
+}
+
+
+
+#list td {
+	text-align:left;
+	height: 30px;
+}
+
+#list td:first-child {
+	width: 15px;	
+}
+
+
+

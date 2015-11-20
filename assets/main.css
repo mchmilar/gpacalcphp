@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+#wrapper {
+	width:1000px;
+}
+
+h1 {
+	text-align:center;
+}
+
+h2 {
+	text-align: center;
+}
+
+label {
+	display:inline-block;
+	width: 100px;
+}
+
+#createForm {
+	width:400px;
+	padding-left: 40px;
+}
+
+#createDiv {
+	width: 400px;
+	margin: 0px auto;
+}
+
+#login {
+	width: 300px;
+	margin: 0px auto;
+}
+
+input#submit {
+	display:inline-block;
+	width: 100px;
+}
+
+p.warning {
+	display:inline-block;	
+	color: red;
+	margin: 0px auto 0px auto;
+}
+
+label.create {
+	display:inline-block;
+	width:150px;
+}
